@@ -1,1 +1,1 @@
-worker: python nat_nails_bot.py
+web: python nat_nails_bot.py
